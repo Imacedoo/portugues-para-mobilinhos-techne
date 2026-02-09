@@ -2,11 +2,11 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# 🏆 Português para Mobilinhos - Projeto Vencedor Téchne 2025
+# 🏆 Português para Mobilinhos - Projeto Vencedor Téchne Escola Móbile 2025 
 
 ## 🎓 Sobre o Projeto
 
-Este projeto foi desenvolvido para o **Téchne** (Concurso de Tecnologia e Criatividade) por **2 alunas da Escola Móbile**, com tutoria de Imacedoo em parceria com uma coordenadora.
+Este projeto foi desenvolvido para o **Téchne** (Concurso de Tecnologia e Criatividade da Escola Móbile) por **2 alunas da Escola Móbile**, com minha tutoria em parceria com uma coordenadora da Escola.
 
 ### 🌟 Conquistas
 
@@ -35,10 +35,6 @@ O projeto foi **vencedor de 2 prêmios na edição de 2025**, alcançando a **ma
 ### Como Funciona
 
 O aplicativo é um jogo educativo interativo que ensina gramática portuguesa de forma divertida. As crianças identificam classes gramaticais (substantivos, adjetivos e verbos) em frases apresentadas, com desafios cronometrados em diferentes níveis.
-
-### 🌐 Visualizar o Projeto
-
-View your app in AI Studio: https://ai.studio/apps/drive/1IJ49hFTxTK5fnPxpdYMbSs4DBHUCk3ZM
 
 ### 💻 Rodar Localmente
 
